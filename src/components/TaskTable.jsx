@@ -15,7 +15,7 @@ import {
   TableBody,
 } from "@mui/material";
 
-const API_URL = "http://127.0.0.1:8000/api/tasks/";
+const API_URL = "https://myproj-backend-4shv.onrender.com/api/tasks/";
 
 function TaskTable() {
   const [tasks, setTasks] = useState([]);
