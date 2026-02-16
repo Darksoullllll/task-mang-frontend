@@ -16,7 +16,7 @@
 // export default App;
 import Layout from "./components/Layout";
 import Dashboard from "./components/Dashboard";
-import TaskTable from "./components/taskTable";
+import TaskTable from "./components/TaskTable";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
